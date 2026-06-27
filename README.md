@@ -141,6 +141,3 @@ python incremental_knn.py rtree_file.txt 116.40 39.90 5
 pip install matplotlib pillow
 ```
 
-## Author
-
-Theofanis Bouraimis (AM: 4745)
